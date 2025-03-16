@@ -1,5 +1,5 @@
 # Title:Secure Password Checker
-#### Video demo: https://youtu.be/PLSwtNdGUNI
+#### Video demo: //
 
 #### Description: The Flask-based web application is a comprehensive tool for enhancing password security and management, offering users two essential functionalities - password checking and password generation. Leveraging the Pwned Passwords API, the app securely queries a database of known breached passwords to ensure users' passwords have not been compromised. The password generation feature produces strong and random passwords tailored to user preferences, including password length, numbers, and special characters. By providing a user-friendly interface, this app empowers users to protect their online accounts effectively and build robust passwords, thereby fortifying their digital security and mitigating potential risks associated with weak passwords and data breaches.
 
